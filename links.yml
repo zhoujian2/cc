@@ -11,13 +11,13 @@ keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推�
 # 网址导航页面描述（可选）
 description: 网址导航静态页面通用模板。
 # 网址导航页面 URL（可选）
-url: https://geneasy.github.io/nav/
+url: https://zhoujian2.github.io/nav/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://geneasy.github.io/nav/
+home_url: https://zhoujian2.github.io/nav/
 # GitHub 链接（可选）
 github_url: https://github.com/geneasy/nav
 # 网站 about 链接（可选）
@@ -42,135 +42,149 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 科研
     icon: linecons-star
     links:
-      - title: P站问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
+      - title: 中国知网
+        logo: https://www.cnki.net/favicon.ico
+        url: https://www.cnki.net/
+        description: 校内访问
+        tags: 
+      - title: 中国知网
+        logo: https://www.cnki.net/favicon.ico
+        url: https://ifffg9aac3886503b482bsbfuvf9qpck5f6fuwfgfy.eds.tju.edu.cn/
+        description: 天大VPN1
+        tags:  
+      # - title: 中国知网
+      #   logo: https://www.cnki.net/favicon.ico
+      #   url: https://p.lib.tju.edu.cn/piswww.cnki.net/
+      #   description: 天大VPN2
+      #   tags: 
+      # - title: 中国知网
+      #   logo: https://www.cnki.net/favicon.ico
+      #   url: https://www-cnki-net-s.vpn.cumtb.edu.cn:8118/
+      #   description: 矿大VPN
+      #   tags:  
+      - title: 中国知网海外版
+        logo: https://chn.oversea.cnki.net/favicon.ico
+        url: https://chn.oversea.cnki.net/
+        description: 校内访问
+        tags: 
+      - title: 中国知网海外版
+        logo: https://chn.oversea.cnki.net/favicon.ico
+        url: https://ifffg139485636356428bsbfuvf9qpck5f6fuwfcah.eds.tju.edu.cn/
+        description: 天大VPN1
+        tags:  
+      # - title: 中国知网海外版
+      #   logo: https://chn.oversea.cnki.net/favicon.ico
+      #   url: https://p.lib.tju.edu.cn/pischn.oversea.cnki.net/
+      #   description: 天大VPN2
+      #   tags: 
+      # - title: 中国知网
+      #   logo: https://chn.oversea.cnki.net/favicon.ico
+      #   url: https://chn-oversea-cnki-net-s.vpn.cumtb.edu.cn:8118/
+      #   description: 矿大VPN
+      #   tags:  
 
-  - category: 推荐
-    hide_menu: true
+  - category: 电子书
+    # hide_menu: true
     icon: linecons-star
     links:
-      - title: 抛砖问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: GenEasy
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/geneasy
-        description: A command line tool that can easily generate HTML, Markdown documents, etc.
-        tags: cli,tools
+      - title: 读秀学术搜索
+        logo: https://www.duxiu.com/favicon.ico
+        url: https://www.duxiu.com/
+        description: 
+        tags: 
+      - title: 读秀学术搜索
+        logo: https://www.duxiu.com/favicon.ico
+        url: https://ifffxe25b2c2480b54446sunqqw6upnn6u6ckoffhh.eds.tju.edu.cn/
+        description: 天大VPN1
+        tags: 
+      - title: FreeMbook
+        logo: https://freembook.com/freembook.jpg
+        url: https://freembook.com/
+        description: 
+        tags: 
+      - title: 安娜的档案
+        logo: https://zh.annas-archive.org/favicon-32x32.png
+        url: https://zh.annas-archive.org/
+        description: 
+        tags: 
+      - title: Library Genesis
+        logo: https://libgen.li/img/favicon.ico
+        url: https://libgen.li/
+        description: 
+        tags: 
+      - title: 鸠摩搜索
+        logo: https://www.jiumodiary.com/images/favicon.png
+        url: https://www.jiumodiary.com/
+        description: 
+        tags: 
 
-  - category: 程序员博客
-    icon: linecons-doc
+  - category: 矿大
+    icon: linecons-star
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 设计师博客
-    icon: linecons-doc
+      - title: 电子资源
+        logo: http://lib.cumtb.edu.cn/lib/WebUI/images/kd.png
+        url: http://lib.cumtb.edu.cn/lib/Sub.html#!Module/Resource/Type/Classify/Content/00/ColumnId/c92a1e31-fd7b-4a6a-a6b1-a8030ab0dc03/Page/1
+        description: 
+        tags: 
+      - title: 图书馆OPAC检索
+        logo: http://219.242.65.10:8080/favicon.ico
+        url: http://219.242.65.10:8080/opac/search/simsearch
+        description: 
+        tags: 
+      - title: 
+        logo: https://freembook.com/freembook.jpg
+        url: https://freembook.com/
+        description: 
+        tags: 
+      - title: 
+        logo: https://zh.annas-archive.org/favicon-32x32.png
+        url: https://zh.annas-archive.org/
+        description: 
+        tags: 
+      - title: 
+        logo: https://libgen.li/img/favicon.ico
+        url: 
+        description: 
+        tags: 
+      - title: 
+        logo: https://www.jiumodiary.com/images/favicon.png
+        url: https://www.jiumodiary.com/
+        description: 
+        tags: 
+        
+  - category: 天大
+    icon: linecons-star
     links:
-      - title: viggo
-        logo: https://images.weserv.nl/?url=work.viggoz.com/images/favicon.png&w=60&h=60
-        url: http://blog.viggoz.com/
-        description: Webstack 的设计师
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 个人博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 社区
-    icon: linecons-doc
-    links:
-      - title: 抛砖问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
-      - title: 独立开发者社区
-        logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
-        url: https://w2solo.com/
-        description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: P站问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
+      - title: 图书馆电子资源平台
+        logo: https://eds.tju.edu.cn/favicon.ico
+        url: https://eds.tju.edu.cn/ermsClient/browse.do
+        description: 
+        tags: 
+      - title: 图书馆电子资源远程访问云系统
+        logo: https://p.lib.tju.edu.cn/favicon.ico
+        url: https://p.lib.tju.edu.cn/
+        description: 
+        tags: 
+      - title: 图书馆OPAC检索
+        logo: http://opac.lib.tju.edu.cn/opac/media/images/favicon.ico
+        url: http://opac.lib.tju.edu.cn/opac/
+        description: 
+        tags: 
+      - title: 
+        logo: https://zh.annas-archive.org/favicon-32x32.png
+        url: https://zh.annas-archive.org/
+        description: 
+        tags: 
+      - title: 
+        logo: https://libgen.li/img/favicon.ico
+        url: https://libgen.li/
+        description: 
+        tags: 
+      - title: 
+        logo: https://www.jiumodiary.com/images/favicon.png
+        url: https://www.jiumodiary.com/
+        description: 
+        tags: 
