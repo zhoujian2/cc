@@ -85,6 +85,99 @@ categories:
       #   url: https://chn-oversea-cnki-net-s.vpn.cumtb.edu.cn:8118/
       #   description: 矿大VPN
       #   tags:  
+      - title: 万方数据知识服务平台
+        logo: https://cdn.w.wanfangdata.com.cn/favicon.ico
+        url: https://www.wanfangdata.com.cn/
+        description: 
+        tags:  
+      - title: 万方数据知识服务平台
+        logo: https://cdn.w.wanfangdata.com.cn/favicon.ico
+        url: https://ifffh91d26325cece4c4bsw0wccqvnnwfp6f5wffgi.eds.tju.edu.cn/
+        description: 天大VPN1
+        tags:  
+      - title: 百度教育内容资源解决方案
+        logo: https://www.baidu.com/favicon.ico
+        url: https://eduai.baidu.com/
+        description: 
+        tags:  
+      - title: 百度教育内容资源解决方案
+        logo: https://www.baidu.com/favicon.ico
+        url: https://ifgzgf474786686f949bdsw0wccqvnnwfp6f5wfayy.eds.tju.edu.cn/
+        description: 天大VPN1
+        tags:  
+      - title: Web of Science（SCIE/SSCI/CPCI/A&HCI）
+        logo: http://webofscience.com/wos/static/favicon.png
+        url: https://www.webofscience.com/wos/alldb/basic-search
+        description: 
+        tags:  
+      - title: Web of Science（SCIE/SSCI/CPCI/A&HCI）
+        logo: http://webofscience.com/wos/static/favicon.png
+        url: https://ifbicd85ae6022a1f4d78sw0wccqvnnwfp6f5wfiac.eds.tju.edu.cn/wos/alldb/basic-search
+        description: 天大VPN1
+        tags:  
+      - title: Elsevier ScienceDirect
+        logo: https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/18/images/favSD.ico
+        url: https://www.sciencedirect.com/
+        description: 
+        tags:  
+      - title: Elsevier ScienceDirect
+        logo: https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/18/images/favSD.ico
+        url: https://ifbfh253cb3a601b84ef2sw0wccqvnnwfp6f5wfgac.eds.tju.edu.cn/
+        description: 天大VPN1
+        tags:  
+      - title: IEEE Xplore IEEE/IET Electronic Library
+        logo: https://ieeexplore.ieee.org/favicon.ico
+        url: https://ieeexplore.ieee.org/Xplore/home.jsp
+        description: 
+        tags:  
+      - title: IEEE Xplore IEEE/IET Electronic Library
+        logo: https://ieeexplore.ieee.org/favicon.ico
+        url: https://ifbix45521e79b0484907sw0wccqvnnwfp6f5wfiiz.eds.tju.edu.cn/Xplore/home.jsp
+        description: 天大VPN1
+        tags:   
+      - title: Engineering Village EI
+        logo: https://www.engineeringvillage.com/static/images/ei_x.png
+        url: https://www.engineeringvillage.com/search/quick.url
+        description: 
+        tags:  
+      - title: Engineering Village EI
+        logo: https://www.engineeringvillage.com/static/images/ei_x.png
+        url: https://ifcaf0e984c0956bb4f89sw0wccqvnnwfp6f5wfayx.eds.tju.edu.cn/search/quick.url
+        description: 天大VPN1
+        tags:   
+
+  - category: 矿大
+    icon: linecons-star
+    links:
+      - title: 电子资源
+        logo: http://lib.cumtb.edu.cn/lib/WebUI/images/kd.png
+        url: http://lib.cumtb.edu.cn/lib/Sub.html#!Module/Resource/Type/Classify/Content/00/ColumnId/c92a1e31-fd7b-4a6a-a6b1-a8030ab0dc03/Page/1
+        description: 
+        tags: 
+      - title: 图书馆OPAC检索
+        logo: http://219.242.65.10:8080/favicon.ico
+        url: http://219.242.65.10:8080/opac/search/simsearch
+        description: 
+        tags: 
+        
+  - category: 天大
+    icon: linecons-star
+    links:
+      - title: 图书馆电子资源平台
+        logo: https://eds.tju.edu.cn/favicon.ico
+        url: https://eds.tju.edu.cn/ermsClient/browse.do
+        description: 
+        tags: 
+      - title: 图书馆电子资源远程访问云系统
+        logo: https://p.lib.tju.edu.cn/favicon.ico
+        url: https://p.lib.tju.edu.cn/
+        description: 
+        tags: 
+      - title: 图书馆OPAC检索
+        logo: http://opac.lib.tju.edu.cn/opac/media/images/favicon.ico
+        url: http://opac.lib.tju.edu.cn/opac/
+        description: 
+        tags: 
 
   - category: 电子书
     # hide_menu: true
@@ -116,74 +209,6 @@ categories:
         description: 
         tags: 
       - title: 鸠摩搜索
-        logo: https://www.jiumodiary.com/images/favicon.png
-        url: https://www.jiumodiary.com/
-        description: 
-        tags: 
-
-  - category: 矿大
-    icon: linecons-star
-    links:
-      - title: 电子资源
-        logo: http://lib.cumtb.edu.cn/lib/WebUI/images/kd.png
-        url: http://lib.cumtb.edu.cn/lib/Sub.html#!Module/Resource/Type/Classify/Content/00/ColumnId/c92a1e31-fd7b-4a6a-a6b1-a8030ab0dc03/Page/1
-        description: 
-        tags: 
-      - title: 图书馆OPAC检索
-        logo: http://219.242.65.10:8080/favicon.ico
-        url: http://219.242.65.10:8080/opac/search/simsearch
-        description: 
-        tags: 
-      - title: 
-        logo: https://freembook.com/freembook.jpg
-        url: https://freembook.com/
-        description: 
-        tags: 
-      - title: 
-        logo: https://zh.annas-archive.org/favicon-32x32.png
-        url: https://zh.annas-archive.org/
-        description: 
-        tags: 
-      - title: 
-        logo: https://libgen.li/img/favicon.ico
-        url: 
-        description: 
-        tags: 
-      - title: 
-        logo: https://www.jiumodiary.com/images/favicon.png
-        url: https://www.jiumodiary.com/
-        description: 
-        tags: 
-        
-  - category: 天大
-    icon: linecons-star
-    links:
-      - title: 图书馆电子资源平台
-        logo: https://eds.tju.edu.cn/favicon.ico
-        url: https://eds.tju.edu.cn/ermsClient/browse.do
-        description: 
-        tags: 
-      - title: 图书馆电子资源远程访问云系统
-        logo: https://p.lib.tju.edu.cn/favicon.ico
-        url: https://p.lib.tju.edu.cn/
-        description: 
-        tags: 
-      - title: 图书馆OPAC检索
-        logo: http://opac.lib.tju.edu.cn/opac/media/images/favicon.ico
-        url: http://opac.lib.tju.edu.cn/opac/
-        description: 
-        tags: 
-      - title: 
-        logo: https://zh.annas-archive.org/favicon-32x32.png
-        url: https://zh.annas-archive.org/
-        description: 
-        tags: 
-      - title: 
-        logo: https://libgen.li/img/favicon.ico
-        url: https://libgen.li/
-        description: 
-        tags: 
-      - title: 
         logo: https://www.jiumodiary.com/images/favicon.png
         url: https://www.jiumodiary.com/
         description: 
